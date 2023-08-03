@@ -1,0 +1,9 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<ExtendedData>
+  <Data name="Store"><value>Memphis</value></Data></ExtendedData>
+  <Point><coordinates>-89.82666,35.18071</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Store"><value>Southaven</value></Data></ExtendedData>
+  <Point><coordinates>-89.99736,34.93788</coordinates></Point></Placemark></Document></kml>
